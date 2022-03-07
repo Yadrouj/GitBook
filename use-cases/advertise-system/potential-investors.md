@@ -1,0 +1,4 @@
+# Potential investors
+
+Users in this platform can choose the option of investor and entrepreneur (they can be in the role of both). By selecting either, users must specify a set of investment priorities or project specifications so that the system can automatically send suggestions to users. \
+<mark style="color:purple;">For example</mark>, User A as an investor tends to invest in NFT, especially in the arts. Allows the system to search and select this area and the desired style and pay a fee to send advertisements in this area. User B, an NFT artist, and designer shares his designs in the system by specifying the exact fields and finally paying for the ads. Eventually, if user A is accepted, the desired plan will be transferred from user 2 to user 1 using the direct payment system based on tokens in the application.
